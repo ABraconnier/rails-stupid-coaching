@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+
+ body {
+  background-image: url('https://images.unsplash.com/photo-1557774394-de53f40ccb02?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80');
+  background-size: cover;
+ }
+
+.new-container {
+  width: 800px;
+  margin: 10px auto;
+  height: 100vh;
+  background-color: rgba(0,0,0,0.1);
+  padding-top: 50px;
+}
